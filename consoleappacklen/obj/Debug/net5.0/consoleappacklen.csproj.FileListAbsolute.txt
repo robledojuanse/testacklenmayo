@@ -1,0 +1,15 @@
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.AssemblyInfoInputs.cache
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.AssemblyInfo.cs
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.csproj.CoreCompileInputs.cache
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.exe
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.deps.json
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.runtimeconfig.json
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.runtimeconfig.dev.json
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.dll
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\ref\consoleappacklen.dll
+E:\Estudio .net\acklenproject\consoleappacklen\bin\Debug\net5.0\consoleappacklen.pdb
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.dll
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\ref\consoleappacklen.dll
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.pdb
+E:\Estudio .net\acklenproject\consoleappacklen\obj\Debug\net5.0\consoleappacklen.genruntimeconfig.cache
